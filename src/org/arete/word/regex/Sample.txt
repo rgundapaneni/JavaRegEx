@@ -1,0 +1,9 @@
+<div class="text">
+
+	<h3 class="word has-audio ">
+		<span class="TermText qWord lang-en">zest</span>	</h3>
+
+			<p class="definition has-audio ">
+			<span class="TermText qDef lang-en">outer skin of an orange used for giving a special taste to food; spice; interest; flavor; spirited enjoyment; Ex. add a certain zest to the affair; Ex. zest for life</span>		</p>
+
+</div>
